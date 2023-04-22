@@ -20,6 +20,12 @@
       },
       "api": {
         "amplifyrestdemo": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2ooncozys9ifv",
+          "type": "manual"
+        }
       }
     }
   }
